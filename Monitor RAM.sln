@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor RAM", "Monitor RAM\Monitor RAM.csproj", "{BE767E28-C6F4-4D53-A824-2F2FD9CE4405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE767E28-C6F4-4D53-A824-2F2FD9CE4405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE767E28-C6F4-4D53-A824-2F2FD9CE4405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE767E28-C6F4-4D53-A824-2F2FD9CE4405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE767E28-C6F4-4D53-A824-2F2FD9CE4405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A4CC93-B552-455B-A205-8A33999BAEE3}
+	EndGlobalSection
+EndGlobal
